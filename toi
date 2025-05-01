@@ -1,0 +1,4 @@
+mkdir toi-clone
+cd toi-clone
+mkdir css img js
+touch index.html css/style.css js/script.js
